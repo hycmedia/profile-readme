@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Yann</h1>
-<h3 align="center">I'm a fullstack developer based in Berne, Switzerland.</h3>
+<h1 align="left">Hi, I'm Yann</h1>
+<h3 align="left">I'm a fullstack developer based in Berne, Switzerland.</h3>
 
-- ✈️ I’m currently working on many projects such as a tool called [Travelware](https://github.com/hycmedia/travelware)
+- ✈️ I’m currently working on many projects such as a tool called Travelware
 
-- 🖥 The latest thing I build is a starter project for any further full stack applications called [ng-nest-starter](https://github.com/hycmedia/ng-nest-starter)
+- 🖥 The latest thing I built is a starter project for any further full stack applications called [ng-nest-starter](https://github.com/hycmedia/ng-nest-starter)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
