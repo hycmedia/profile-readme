@@ -1,10 +1,6 @@
 <h1 align="left">Hi, I'm Yann</h1>
 <h3 align="left">I'm a fullstack developer based in Berne, Switzerland.</h3>
 
-- ✈️ I’m currently working on many projects such as a tool called Travelware
-
-- 🖥 The latest thing I built is a starter project for any further full stack applications called [ng-nest-starter](https://github.com/hycmedia/ng-nest-starter)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yann-herren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yann-herren" height="30" width="40" /></a>
