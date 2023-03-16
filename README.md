@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Yann</h1>
-<h3 align="left">I'm a fullstack developer based in Berne, Switzerland.</h3>
+<h3 align="left">I'm a fullstack developer based in Lucerne, Switzerland.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
